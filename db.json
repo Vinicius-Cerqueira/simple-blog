@@ -1,19 +1,16 @@
 {
-  "posts": [
+  "blogs": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "title": "Os carros são como as Lanchas",
+      "body": "As motos apesar de serem como os jetskis, possuem a propriedade de ser muito secas.",
+      "author": "Mario",
+      "id": 1
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "As motos são como os jetskis",
+      "body": "oijaoifjadfiojsfjifjsdfosdfjisdoijsofisodfoisjf",
+      "author": "Wario",
+      "id": 2
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
