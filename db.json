@@ -2,19 +2,19 @@
   "blogs": [
     {
       "title": "Os carros são como as Lanchas",
-      "body": "As motos apesar de serem como os jetskis, possuem a propriedade de ser muito secas.",
+      "body": "Lorem ipsum dolor sit amet. Duis vel sem lobortis, eleifend turpis a, vehicula massa.",
       "author": "Mario",
       "id": 1
     },
     {
       "title": "As motos são como os jetskis",
-      "body": "Lorem ipsum dolor sit amet",
+      "body": "Lorem ipsum dolor sit amet. Duis vel sem lobortis, eleifend turpis a, vehicula massa.",
       "author": "Wario",
       "id": 2
     },
     {
       "title": "Os pedestres são como os banhistas",
-      "body": "Lorem ipsum dolor sit amet",
+      "body": "Lorem ipsum dolor sit amet. Duis vel sem lobortis, eleifend turpis a, vehicula massa.",
       "author": "Wario",
       "id": 3
     }
