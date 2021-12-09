@@ -17,10 +17,10 @@ function App() {
           <Navbar/>
         <div className="content">
           <Routes>
-            <Route path="/" element={<Home/>} />
-            <Route path="/create" element={<Create/>}/>
-            <Route path="/blogs/:id" element={<BlogDetails/>}/>
-            <Route path="*" element={<NotFound/>}/>
+            <Route path="/simple-blog" element={<Home/>} />
+            <Route path="/simple-blog/create" element={<Create/>}/>
+            <Route path="/simple-blog/blogs/:id" element={<BlogDetails/>}/>
+            <Route path="/simple-blog/*" element={<NotFound/>}/>
           </Routes>
         </div>
       </div>

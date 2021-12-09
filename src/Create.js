@@ -21,7 +21,7 @@ const Create = () => {
         }).then(()=> {
             console.log('Blog succefully posted!')
             setIsPending(false);
-            navigate('/');
+            navigate('/simple-blog');
         })
     }
     return (

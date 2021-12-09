@@ -10,7 +10,7 @@ const BlogDetails = () => {
         fetch('https://my-json-server.typicode.com/Vinicius-Cerqueira/simple-blog/blogs/' + blog.id, {
             method: 'DELETE'
         }).then(()=>{
-            navigate('/');
+            navigate('/simple-blog');
         })
     }
     return(
