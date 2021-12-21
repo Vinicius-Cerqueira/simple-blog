@@ -17,6 +17,12 @@
       "body": "Lorem ipsum dolor sit amet. Duis vel sem lobortis, eleifend turpis a, vehicula massa.",
       "author": "Wario",
       "id": 3
+    },
+    {
+      "title": "Não deixe que a alegria de alguém morra na praia.",
+      "body": "Lorem Ipsum",
+      "author": "Mario",
+      "id": 4
     }
   ]
 }
