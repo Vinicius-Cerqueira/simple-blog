@@ -1,6 +1,6 @@
 # Simple Blog Project
 
-This is my first personal project, a simple blog poster, it's funcionalities are CREATE, READ and DELETE blog posts tha includes author, title and content.
+This is my first personal project, a simple blog poster, this project's functionalities are CREATE, READ and DELETE blog posts that includes author, title and content.
 
 It was developed using React.JS, HTML and CSS.
 
