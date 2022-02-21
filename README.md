@@ -12,7 +12,7 @@ npm install
 ```
 or
 ```javascript
-yarn start
+yarn install
 ```
 and run the project:
 ```javascript
