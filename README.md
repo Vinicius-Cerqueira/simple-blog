@@ -6,13 +6,13 @@ It was developed using React.JS, HTML and CSS.
 
 For the API, it was used MirageJS.
 
-To see the project running, clone the repository, install depedencies with 
+To see this project running, clone the repository, install the project's dependencies with 
 ```javascript
 npm install
 ```
 or
 ```javascript
-yarn
+yarn start
 ```
 and run the project:
 ```javascript
